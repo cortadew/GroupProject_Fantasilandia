@@ -1,6 +1,6 @@
 package org.GrupoINF;
 
-//importamos librerias
+//importamos las librerias necesarias 
 import java.util.ArrayList;
 import java.util.List;
 
